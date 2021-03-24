@@ -1,0 +1,8 @@
+botToken: ''
+color: '#9B59B6'
+iconUrl: ''
+authToken: 'Make this long and random'
+ownerId: ''
+autoRoleId: ''
+modulePort: 6060
+websocketPort: 6061

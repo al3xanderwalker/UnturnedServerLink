@@ -1,0 +1,12 @@
+{
+	"IsEnabled": true,
+	"Name": "UnturnedServerLink",
+	"Version": "1.0.0",
+	"Assemblies":
+	[
+		{
+			"Path": "/USLModule.dll",
+			"Role": "Server"
+		}
+	]
+}
