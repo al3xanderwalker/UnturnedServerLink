@@ -206,14 +206,6 @@ export class USLClient extends Client {
     this.login(config.botToken)
       .then(() => {
         console.log('Logged in');
-        // @ts-ignore-start
-        this.api.applications(this.user.id).commands.post({
-          data: {
-            name: 'test',
-            description: 'test command',
-          },
-        });
-        // @ts-ignore-end
         setInterval(() => {
           ServerInfoEmbed.updateServerInfo();
           LeaderboardEmbed.updateLeaderboard();
