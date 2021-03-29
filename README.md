@@ -4,15 +4,15 @@ Having closed my vanilla servers I have decided to release the system I made to 
 
 ## Features
 
-Useful admin commands such as god/vanish
-Stat tracking
-Banning accross all linked servers
-Discord chat and link and live status
-Death logs including information + spy of the killer
-Vote checker/tracker
-Autosave / Auto announcer
-Ability to increase queue slots
-Combattracking (Logs in console if someone combat logs)
+Useful admin commands such as god/vanish  
+Stat tracking  
+Banning accross all linked servers  
+Discord chat and link and live status  
+Death logs including information + spy of the killer  
+Vote checker/tracker  
+Autosave / Auto announcer  
+Ability to increase queue slots  
+Combattracking (Logs in console if someone combat logs)  
 
 ## Setting Up
 
